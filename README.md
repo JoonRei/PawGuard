@@ -1,15 +1,27 @@
-# pawguard
+# PawGuard: Davao City Stray Animal Rescue & Adoption App
 
-A new Flutter project.
+PawGuard is a mobile application built to assist residents and animal shelters in Davao City with the efficient rescue and adoption of stray animals. The app enables real-time animal reporting, in-app messaging with shelters, and streamlined pet adoption workflows.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+# Features
 
-A few resources to get you started if this is your first Flutter project:
+- Stray Animal Reporting with photo, description, and live geolocation
+- Adoptable Pet Listings with detailed profiles and filters
+- Chat with Shelters to inquire about pets and get real-time updates
+- Adoption Application System with status tracking
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
+
+# Built With
+
+- Flutter – UI toolkit for building natively compiled applications  
+- Firebase – Backend for authentication, real-time database, and storage  
+- Figma – For prototyping and interface design  
+- Visual Studio Code – Development environment  
+- GitHub – Version control and collaboration
+
+---
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
